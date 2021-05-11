@@ -10,3 +10,5 @@
   <li>The tempo is set using the $tempto variable, in Millisecs</li>
   <li>The tune is an endless while loop</li>
 </ul>  
+
+Frequency table was found at: https://pages.mtu.edu/~suits/notefreqs.html
